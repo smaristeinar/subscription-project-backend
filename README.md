@@ -8,5 +8,7 @@ this app requiers node to be installed, then you can run npm install wich will i
 5. morgan
 6. cookie-parser
 7. path
-8. random-key.
+8. random-key
+ 
+
 to run this server you use the comman nodemon start
